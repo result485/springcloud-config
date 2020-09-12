@@ -1,1 +1,3 @@
-master分支：version master config-test-1.0
+master: version master config-test-1.0
+config:
+  info: myConfig,think you
