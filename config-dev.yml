@@ -1,1 +1,3 @@
-master分支：version master-1.o
+master: version master-1.o
+config:
+  info: myConfig,think you
